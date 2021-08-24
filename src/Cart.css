@@ -1,0 +1,11 @@
+.cart {
+  width: 200px;
+  padding: 20px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.cart-remove-quantity {
+  height: 20px;
+  margin: 1px;
+}
