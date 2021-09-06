@@ -1,4 +1,4 @@
-# About
+## About
 
 The purpose of this project was to review localStorage
 
